@@ -1,0 +1,15 @@
+{
+  "name": "srm-drg-management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "TESCO",
+  "private": true,
+  "scripts": {
+    "server": " node server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
